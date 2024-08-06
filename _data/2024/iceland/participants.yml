@@ -1,4 +1,4 @@
-- name: Firstname Lastname
-  image: /assets/images/FirstnameLastname.jpeg
-  bio: "Short description, max 150 words."
-  website: http://www.me.is
+- name: Clark Meyers
+  image: /assets/images/ClarkMeyers.jpeg
+  bio: "I was born and raised in Canada and moved to Iceland to pursue my master in sociology at the University of Iceland. My thesis focused on how social capital can influence peer-influence among adolescents using agent-based modeling."
+  
